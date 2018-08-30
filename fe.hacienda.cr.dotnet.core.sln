@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fe.hacienda.cr.dotnet.core", "fe.hacienda.cr.dotnet.core\fe.hacienda.cr.dotnet.core.csproj", "{F9A9C5C8-4C9F-45B8-A678-22975F4DA9FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9A9C5C8-4C9F-45B8-A678-22975F4DA9FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9A9C5C8-4C9F-45B8-A678-22975F4DA9FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9A9C5C8-4C9F-45B8-A678-22975F4DA9FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9A9C5C8-4C9F-45B8-A678-22975F4DA9FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92FC89D7-6786-4C97-BB51-A641663B1900}
+	EndGlobalSection
+EndGlobal
